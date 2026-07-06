@@ -165,8 +165,4 @@ streamlit run app.py
 - Add automated model retraining from newly uploaded data.
 - Add exportable PDF or PowerPoint business reports.
 
-## Resume Bullet Points
 
-- Built a customer churn prediction dashboard using Python, Scikit-learn, Pandas, Plotly, and Streamlit.
-- Trained and compared Logistic Regression and Random Forest models to identify high-risk customers.
-- Developed interactive business analytics dashboards showing churn probability, feature importance, revenue at risk, and retention recommendations.
